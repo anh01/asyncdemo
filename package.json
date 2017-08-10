@@ -1,0 +1,9 @@
+{
+  "name": "asyncdemo",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "repository": "https://github.com/anh01/asyncdemo.git",
+  "author": "anh",
+  "license": "MIT"
+}
